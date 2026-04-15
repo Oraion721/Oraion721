@@ -15,7 +15,7 @@ With a strong foundation in **advanced mathematics and physics**, I'm specializi
 
 I'm deeply interested in developing sophisticated strategies that leverage statistical modeling, advanced mathematics, and machine learning to navigate global financial markets. My goal is to build intelligent systems that can forecast asset movements, optimize portfolios, and execute trades with precision.
 
-**Status:** 🎓 M.Sc Physics graduate (15 days away!) | 🔍 Seeking opportunities in Quantitative Finance & Financial Engineering
+**Status:** 🎓 M.Sc Physics graduate | 🔍 Seeking opportunities in Quantitative Finance & Financial Engineering
 
 ---
 
@@ -31,6 +31,7 @@ I'm deeply interested in developing sophisticated strategies that leverage stati
 
 ### **Financial Technologies**
 - **Interactive Brokers (IBKR) API & TWS** - Real-time market data and order execution
+- **yFinance** - Historical Data for research and backtesting
 - **Algorithmic Trading** - Strategy development and backtesting
 - **Financial Markets** - Equities, derivatives, global exchanges
 
@@ -44,20 +45,20 @@ I'm deeply interested in developing sophisticated strategies that leverage stati
 
 ## 🏆 Featured Projects
 
-### 🔄 **P-1: Iterative Backtester** 
+### 🔄 **Project-1: Iterative Backtester** 
 A comprehensive backtesting framework implementing multiple trading strategies:
 - **Strategies Implemented:** SMA (Simple Moving Average), Bollinger Bands, Mean Contrarian
 - **Features:** Mathematical performance metrics, strategy comparison, buy-and-hold benchmark
 - **Output:** Detailed statistical analysis and comparative performance reports
 
-### 🧠 **P-2: ML-Powered Stock Prediction Strategies**
+### 🧠 **Project-2: ML-Powered Stock Prediction Strategies**
 Machine learning pipeline for stock price forecasting:
 - **Feature Engineering:** Data preparation, feature extraction, and selection
 - **Models:** Linear Regression, Logistic Regression, Deep Neural Networks (TensorFlow)
 - **Validation:** Out-of-sample forward testing and prediction accuracy evaluation
 - **Use Case:** Binary classification for buy/sell signals with ML predictions
 
-### 🤖 **P-3: Full Functional IBKR API Trading Bot**
+### 🤖 **Project-3: Full Functional IBKR API Trading Bot**
 Production-ready algorithmic trading system:
 - **Connectivity:** Real-time connection to TWS (Trader Workstation)
 - **Data Pipeline:** Market data retrieval, preprocessing into DataFrames/vectors
